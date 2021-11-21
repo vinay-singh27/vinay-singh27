@@ -4,15 +4,13 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 
 ### Skills :fire:
 
-**Domain:**  Machine Learning, Data Science, Healthcare Analytics, Data Wrangling, Data Visualization, Big Data
+**Analytical Skills:**  Data Science, Machine Learning, Healthcare Analytics, Big Data, Data Visualization,
 
-**Languages:**  Python, MySQL, Java
+**Programming and Technical Proficiencies:**  Python, MySQL, Spark, Java, Microsoft Excel
 
-**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, PyTorch, NLTK, SpaCy, 
+**Libraries:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, PyTorch, NLTK, SpaCy
 
-**Tools:** AWS EC2, AWS S3, Lambda Functions, Databricks
-
-**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods
+**Tools & Platforms:** AWS EC2, AWS S3, Lambda Functions, Databricks
 
 
 [![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=vinay-singh27&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
