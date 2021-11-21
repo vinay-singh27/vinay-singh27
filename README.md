@@ -1,10 +1,10 @@
 ### Hi there, I'm Vinay 👋 
 
-I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs.com/). I come with experience of working with different technologies including Data Science, Machine Learning and Deep Learning.
+I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs.com/). 
 
 ### Skills :fire:
 
-**Domain:**  Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, Big Data
+**Domain:**  Machine Learning, Data Science, Healthcare Analytics, Data Wrangling, Data Visualization, Big Data
 
 **Languages:**  Python, MySQL, Java
 
