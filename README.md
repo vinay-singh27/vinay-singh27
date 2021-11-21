@@ -21,9 +21,6 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 [<img align="left" alt="vinay-singh27 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vinay-singh27 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 
-<br />
-
-<br />
 
 [twitter]: https://twitter.com/an_0utlier
 [linkedin]: https://linkedin.com/in/vinay-singh27
