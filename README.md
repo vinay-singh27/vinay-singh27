@@ -6,9 +6,9 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 
 **Domain:**  Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, Big Data
 
-**Languages:**  Python, SQL, Java
+**Languages:**  Python, MySQL, Java
 
-**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, PyTorch, 
+**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, PyTorch, NLTK, SpaCy, 
 
 **Tools:** AWS EC2, AWS S3, Lambda Functions, Databricks
 
