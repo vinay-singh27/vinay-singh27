@@ -8,7 +8,7 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 
 **Programming and Technical Proficiencies:**  Python, MySQL, Spark, Java, Microsoft Excel
 
-**Libraries:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, PyTorch, NLTK, SpaCy
+**Libraries:** NumPy, Pandas, Scikit-Learn, Statsmodel, SciPy, Matplotlib, Seaborn, Optuna, PyTorch, NLTK, SpaCy
 
 **Tools & Platforms:** AWS EC2, AWS S3, Lambda Functions, Databricks
 
@@ -25,4 +25,3 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 [twitter]: https://twitter.com/an_0utlier
 [linkedin]: https://linkedin.com/in/vinay-singh27
 [hackerrank]: https://hackerrank.com/vinaysin27
-
