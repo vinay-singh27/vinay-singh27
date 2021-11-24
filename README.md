@@ -1,6 +1,6 @@
 ### Hi there, I'm Vinay 👋 
 
-I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs.com/). I like to understand how things work and I think that Artificial Intelligence should be more than algorithms that learn to perform complex tasks; we have to focus about explainable methods that enable the crowds to understand why things happen, to be able to face and remove bias, correct models and enabling the humans to improve their learning capabilities.
+I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs.com/). 
 
 ### Skills :fire:
 
