@@ -13,8 +13,6 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 **Tools & Platforms:** AWS EC2, AWS S3, Lambda Functions, Databricks
 
 
-[![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=vinay-singh27&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Github Stats
 
 <table border="0">
