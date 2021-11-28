@@ -24,7 +24,7 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 </td>
 
 <td>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?vinay-singh27" frameborder="0"></iframe>
+<img src="https://ionicabizau.github.io/github-profile-languages/api.html?vinay-singh27" frameborder="0"></iframe>
 
 </td>
 
