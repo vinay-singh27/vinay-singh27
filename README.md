@@ -23,10 +23,11 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 <a href="https://github-readme-stats.vercel.app/api?username=vinay-singh27&">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=vinay-singh27&count_private=true&show_icons=true&" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-singh27&hide=php&">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-singh27&hide=php&" />
+<a href=""https://ionicabizau.github.io/github-profile-languages/api.html?vinay-singh27">
+  <img align="left" src=""https://ionicabizau.github.io/github-profile-languages/api.html?vinay-singh27" />
 </a>
 </div>
+
 
 ### Connect with me:
 
