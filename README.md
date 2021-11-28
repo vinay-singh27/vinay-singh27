@@ -13,11 +13,20 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 **Tools & Platforms:** AWS EC2, AWS S3, Lambda Functions, Databricks
 
 
-## Github Stats
+## :trophy: My Github Stats:
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinay-singh27&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vinay's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-singh27&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+</a>
+</div>
 
 
 ### Connect with me:
