@@ -15,6 +15,23 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 
 [![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=vinay-singh27&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+## Github Stats
+
+<table border="0">
+ <tr>
+<td class="d-inline">
+  <td>
+<img src="https://github-readme-stats.vercel.app/api?username=vinay-singh27&count_private=true&show_icons=true" />
+
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-singh27&layout=compact"/>
+
+</td>
+
+</table>
+
 ### Connect with me:
 
 [<img align="left" alt="vinay-singh27 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
