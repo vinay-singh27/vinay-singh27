@@ -24,7 +24,7 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 </td>
 
 <td>
-<img src="https://ionicabizau.github.io/github-profile-languages/api.html?vinay-singh27" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 </td>
 
