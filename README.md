@@ -13,20 +13,22 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 **Tools & Platforms:** AWS EC2, AWS S3, Lambda Functions, Databricks
 
 
-## :trophy: My Github Stats:
+## Github Stats
 
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=vinay-singh27&count_private=true&show_icons=true&)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=vinay-singh27&hide=php&)
--->
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=vinay-singh27&">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=vinay-singh27&count_private=true&show_icons=true&" />
-</a>
-<a href=""https://ionicabizau.github.io/github-profile-languages/api.html?vinay-singh27">
-  <img align="left" src=""https://ionicabizau.github.io/github-profile-languages/api.html?vinay-singh27" />
-</a>
-</div>
+<table border="0">
+ <tr>
+<td class="d-inline">
+  <td>
+<img src="https://github-readme-stats.vercel.app/api?username=vinay-singh27&count_private=true&show_icons=true" />
+
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-singh27&layout=compact"/>
+
+</td>
+
+</table>
 
 
 ### Connect with me:
