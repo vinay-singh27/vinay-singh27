@@ -30,6 +30,8 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 </table>
 
 
+
+
 ### Connect with me:
 
 [<img align="left" alt="vinay-singh27 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
