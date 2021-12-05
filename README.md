@@ -23,7 +23,7 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-singh27&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-singh27&layout=compact&hide=jupyter%20notebook"/>
 
 </td>
 
