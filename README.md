@@ -6,7 +6,7 @@ I am currently working as a Data Scientist at [**ZS Associates**](https://www.zs
 
 **Analytical Skills:**  Data Science, Machine Learning, Healthcare Analytics, Big Data, Data Visualization,
 
-**Programming and Technical Proficiencies:**  Python, MySQL, Spark, Java, Microsoft Excel
+**Programming and Technical Proficiencies:**  Python, MySQL, Spark, Java
 
 **Libraries:** NumPy, Pandas, Scikit-Learn, Statsmodel, SciPy, Matplotlib, Seaborn, Optuna, PyTorch, NLTK, SpaCy
 
