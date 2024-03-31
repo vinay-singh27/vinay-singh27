@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Role-Senior%20Data%20Scientist-orange) 
 
-🌟 Welcome to my GitHub profile! I'm a Senior Data Scientist [**ZS Associate**](https://www.zs.com/). 
+🌟 Welcome to my GitHub profile! I'm a Senior Data Scientist at [**Netomi**](https://www.netomi.com/). 
 
 ## About Me 🧙‍♂️
 
